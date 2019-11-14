@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.pratthana.appfood"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.pratthana.appfood"
+    }
+  },
+  "dependent_plugins": {}
+}
